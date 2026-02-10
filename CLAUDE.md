@@ -125,6 +125,33 @@ Wanneer Wouter werkt aan een bestaand project:
 - `dev` — ontwikkeling (als nodig)
 - `feature/{korte-beschrijving}` — nieuwe features
 
+## Lokale structuur (MacBook)
+
+Wouter's lokale MacBook is georganiseerd als:
+
+```
+~/Recruitin/
+├── projects/         # Alle git repos (clone hier)
+├── vault/            # Symlink naar .github/vault
+├── sandbox/          # Experimenten en tests
+└── tools/            # Lokale configs (claude_desktop_config.json, .env.master)
+```
+
+### Regels lokaal
+- **Nieuwe projecten** altijd aanmaken in `~/Recruitin/projects/`
+- **Experimenten** in `~/Recruitin/sandbox/` — opruimen of promoveren naar projects
+- **Nooit** losse projecten op Desktop of Downloads laten staan
+- `~/Recruitin/tools/claude_desktop_config.json` is de backup van de werkende MCP config
+
+## Vault Index
+
+De volledige index van ALLES wat Wouter ooit gebouwd heeft staat in:
+`vault/INDEX.md`
+
+Dit bevat: alle 17 MCP servers, 7 agents, 8 systeem-prompts, 7 scoring tools, 6 email templates, 26 workflows, 67 scripts, 9 gists.
+
+Raadpleeg deze index als Wouter iets zoekt of als je wilt weten of iets al bestaat.
+
 ## Stijl & Voorkeuren
 
 - Taal in code: Engels
