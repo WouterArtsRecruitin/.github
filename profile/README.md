@@ -1,22 +1,16 @@
-## Introduction
+## Recruitin — Recruitment Tech & AI Automation
 
-Hello there. 👋
+Welkom bij de GitHub van **Recruitin** (WouterArtsRecruitin).
 
-This GitHub organization contains repos for Canva's developer platform.
+Wij bouwen tools en automatiseringen die het recruitmentproces slimmer, sneller en datagedreven maken — met AI, MCP servers en market intelligence.
 
-## First steps
+### Kernprojecten
 
-- To discover what's possible with Canva's developer platform, see [canva.com/developers](https://www.canva.com/developers).
-- To learn how to start building with Canva's SDKs and APIs, read the documentation at [canva.dev](https://www.canva.dev).
-- To chat with Canva's growing developer community, check out [community.canva.dev](https://community.canva.dev).
+- **[recruitin-mcp-servers](https://github.com/WouterArtsRecruitin/recruitin-mcp-servers)** — 43+ Model Context Protocol servers voor recruitment automation en data-analyse
+- **[intelligence-hub](https://github.com/WouterArtsRecruitin/intelligence-hub)** — Recruitment Market Intelligence: vacancy trends, ICP monitoring en concurrent tracking
+- **[TechnicalRecruitmentNews](https://github.com/WouterArtsRecruitin/TechnicalRecruitmentNews)** — Dagelijkse recruitment trends en nieuws aggregatie
+- **[prompt-gym](https://github.com/WouterArtsRecruitin/prompt-gym)** — Interactief prompt engineering platform
 
-## Developer support
+### Contact
 
-If you have any questions, feedback, or requests related to Canva's developer platform, either:
-
-- Submit a support ticket via [our helpdesk](https://canvadev.atlassian.net/servicedesk/customer/portal/8)
-- Post a thread in the [Canva Developers Community](https://community.canva.dev)
-
-## Contributing
-
-We're not currently accepting third-party contributions for any our repos. If you'd like to request changes or additions, submit a request via the [Canva Developers Community](https://community.canva.dev).
+Meer weten of samenwerken? Neem contact op via GitHub.
